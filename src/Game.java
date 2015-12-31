@@ -14,6 +14,10 @@ import javax.swing.JOptionPane; // pop-up dialog box
 public class Game extends Frame implements MouseListener
 {
 	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+	/**
 	 * creates a window object, a puzzle object that inherits a grid,
 	 * easy, medium, hard buttons
 	 * number buttons: 1 through 9, with a clear button

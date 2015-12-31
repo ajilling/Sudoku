@@ -8,6 +8,6 @@ public class Sudoku
 {
 	public static void main(String[] args)
 	{
-		Game newGame = new Game(); // instantiate new Game object
+		new Game(); // instantiate new Game object
 	}
 }
